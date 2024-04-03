@@ -1,0 +1,5 @@
+*.zip
+*.tar
+*.tar.gz
+.DS_Store
+images
